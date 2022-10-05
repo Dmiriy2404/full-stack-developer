@@ -1,4 +1,21 @@
 body {
-    background-color: #fff;
-    color: #wfwffw;
+    color: blueviolet;
+    background-color: aquamarine;
 }
+
+a {
+    text-decoration: none;
+}
+
+.link-tel {
+    text-decoration: underline;
+}
+
+/* 
+селектор тегу
+селектор класу
+селектор ідентифікатора.
+селектор нащадка
+селектор прямого нащадка
+селектор атрибуту
+ */
